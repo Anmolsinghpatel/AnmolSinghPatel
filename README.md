@@ -1,5 +1,15 @@
-# 💫 About Me:
-🔹 1. Introduction (Start strong)<br>I’m Anmol Singh Patel, a B.Tech student specializing in AI & ML<br>Passionate about building real-world intelligent systems, not just theory<br>Interested in speech AI, machine learning systems, and smart infrastructure<br>🔹 2. Your Core Strength<br>I focus on practical AI solutions that interact with real environments<br>I believe AI should solve real problems, not just stay in research papers<br>🔹 3. Project-Based Points (Use as examples)<br>Built AVAAS, a voice-based system for booking transport using speech<br>Developed ATM Status Prediction System to improve service availability<br>Created AI Classroom Robot using probability models<br>Implemented ML algorithms from scratch → strong fundamentals<br><br>👉 (In GD, saying “I have actually built…” gives you a huge advantage)<br><br>🔹 4. Technical Skills Angle<br>Skilled in Python, SQL, JavaScript, FastAPI, DBMS, Web Development<br>Can work on both AI models + full-stack systems<br>🔹 5. Certifications / Exposure<br>Completed certifications in ML, DBMS, Python, etc.<br>Participated in Hack4Delhi (Unstop Fest 2025) → teamwork & innovation<br>🔹 6. Leadership Points (VERY IMPORTANT in GD)<br>Vice President of Model United Nations<br>Experience as a Master of Ceremonies → strong communication skills<br><br>👉 This shows you’re not just technical—you can speak and lead.<br><br>🔹 7. Your Perspective (Use this to stand out)<br>AI should be:<br>Scalable<br>User-friendly<br>Solving real-world problems<br>🔹 8. Future Goal (End strong)<br>Aim to contribute to impactful AI research<br>Planning to pursue a PhD in Artificial Intelligence<br>🔥 Bonus GD Lines (Use these to impress)<br>“I believe AI is not about replacing humans, but enhancing human capability.”<br>“The real challenge is not building models, but deploying them in real-world environments.”<br>“Data-driven systems will define the next generation of infrastructure.”
+## 💫 About Me (Animated)
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=2500&pause=800&color=00FFAA&center=true&vCenter=true&width=900&lines=I’m+Anmol+Singh+Patel;B.Tech+AI+%26+ML+Student;Building+Real-World+Intelligent+Systems;Interested+in+Speech+AI+%26+ML+Systems" />
+</p>
+
+---
+
+### ⚡ Core Strength
+```bash
+I focus on practical AI solutions interacting with real environments
+I believe AI should solve real-world problems, not stay in research papers
 
 
 ## 🌐 Socials:
