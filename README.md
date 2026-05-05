@@ -1,98 +1,27 @@
-# <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> Hey, I'm Anmol Singh Patel
+# 💫 About Me:
+🔹 1. Introduction (Start strong)<br>I’m Anmol Singh Patel, a B.Tech student specializing in AI & ML<br>Passionate about building real-world intelligent systems, not just theory<br>Interested in speech AI, machine learning systems, and smart infrastructure<br>🔹 2. Your Core Strength<br>I focus on practical AI solutions that interact with real environments<br>I believe AI should solve real problems, not just stay in research papers<br>🔹 3. Project-Based Points (Use as examples)<br>Built AVAAS, a voice-based system for booking transport using speech<br>Developed ATM Status Prediction System to improve service availability<br>Created AI Classroom Robot using probability models<br>Implemented ML algorithms from scratch → strong fundamentals<br><br>👉 (In GD, saying “I have actually built…” gives you a huge advantage)<br><br>🔹 4. Technical Skills Angle<br>Skilled in Python, SQL, JavaScript, FastAPI, DBMS, Web Development<br>Can work on both AI models + full-stack systems<br>🔹 5. Certifications / Exposure<br>Completed certifications in ML, DBMS, Python, etc.<br>Participated in Hack4Delhi (Unstop Fest 2025) → teamwork & innovation<br>🔹 6. Leadership Points (VERY IMPORTANT in GD)<br>Vice President of Model United Nations<br>Experience as a Master of Ceremonies → strong communication skills<br><br>👉 This shows you’re not just technical—you can speak and lead.<br><br>🔹 7. Your Perspective (Use this to stand out)<br>AI should be:<br>Scalable<br>User-friendly<br>Solving real-world problems<br>🔹 8. Future Goal (End strong)<br>Aim to contribute to impactful AI research<br>Planning to pursue a PhD in Artificial Intelligence<br>🔥 Bonus GD Lines (Use these to impress)<br>“I believe AI is not about replacing humans, but enhancing human capability.”<br>“The real challenge is not building models, but deploying them in real-world environments.”<br>“Data-driven systems will define the next generation of infrastructure.”
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=3000&color=00FFAA&center=true&vCenter=true&width=750&lines=AI+%26+ML+Engineer;Full+Stack+Developer+(React+%2B+FastAPI);Building+Real-World+Intelligent+Systems;Future+AI+Researcher" />
-</p>
 
----
+## 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/i_am_anmolsingh_) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/AnmolSinghPatel) [![Mastodon](https://img.shields.io/badge/-MASTODON-%232B90D9?logo=mastodon&logoColor=white)](https://mastodon.social/@AnmolSingh patel) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:anmolsinghpatel32@gmail.com) 
 
-## ⚡ About Me
+# 💻 Tech Stack:
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Testing-Library](https://img.shields.io/badge/-TestingLibrary-%23E33332?style=for-the-badge&logo=testing-library&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Webpack](https://img.shields.io/badge/webpack-%238DD6F9.svg?style=for-the-badge&logo=webpack&logoColor=black) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=AnmolSinghPatel&theme=neon&hide_border=true&include_all_commits=true&count_private=false)<br/>
+![](https://streak-stats.demolab.com/?user=AnmolSinghPatel&theme=neon&hide_border=true)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=AnmolSinghPatel&theme=neon&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
 
-- 🔥 Building **real-world AI systems**
-- 🧠 Interested in **Speech AI, ML Systems, Intelligent Infrastructure**
-- ⚙️ Focused on **scalable, practical solutions**
-- 🚀 AI should solve real problems, not just stay in theory
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=AnmolSinghPatel&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
----
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
-## 🚀 Featured Projects
-
-### 🗣️ AVAAS – Voice AI System
-<p>
-  <a href="https://github.com/YOUR_USERNAME/avaas">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=YOUR_USERNAME&repo=avaas&theme=radical" />
-  </a>
-</p>
-
-🔹 Voice-based transport booking using speech recognition  
-🔹 Built with AI + backend integration  
-
-👉 [🔗 View Code](https://github.com/YOUR_USERNAME/avaas)  
-👉 [🚀 Live Demo](https://your-demo-link.com)
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=AnmolSinghPatel&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
+[![](https://komarev.com/ghpvc/?username=AnmolSinghPatel&icon=0&color=0)](https://visitcount.itsvg.in)
 
-### 🏧 ATM Status Prediction System
-<p>
-  <a href="https://github.com/YOUR_USERNAME/atm-predictor">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=YOUR_USERNAME&repo=atm-predictor&theme=radical" />
-  </a>
-</p>
-
-🔹 Predicts ATM availability using ML  
-🔹 Helps improve service reliability  
-
-👉 [🔗 View Code](https://github.com/YOUR_USERNAME/atm-predictor)  
-
----
-
-### 🤖 AI Classroom Robot
-<p>
-  <a href="https://github.com/YOUR_USERNAME/ai-classroom">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=YOUR_USERNAME&repo=ai-classroom&theme=radical" />
-  </a>
-</p>
-
-🔹 Models student behavior using probability  
-🔹 Smart classroom interaction system  
-
-👉 [🔗 View Code](https://github.com/YOUR_USERNAME/ai-classroom)  
-
----
-
-## 🛠️ Tech Stack
-
-### 💻 Languages
-Python • C • C++ • Java • JavaScript  
-
-### 🌐 Frameworks
-React • FastAPI • Django • Node.js • Bootstrap  
-
-### 🧠 AI/ML
-Pandas • NumPy • Machine Learning  
-
-### 🗄️ Database
-MySQL • DBMS  
-
----
-
-## 🏆 Achievements
-
-- 🎯 Hack4Delhi Participant (Unstop Holiday Fest 2025)  
-- 📜 Certified in ML, DBMS, SQL, Python, FastAPI, Web Dev  
-
----
-
-## 🎤 Leadership
-
-- Vice President – Model United Nations  
-- Master of Ceremonies – University Events  
-
----
-
-## 🎯 Mission
-
-```bash
-> Build scalable AI systems
-> Contribute to AI research
-> Pursue PhD in Artificial Intelligence
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
