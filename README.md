@@ -1,4 +1,4 @@
-# 👋 Hi, I'm [Your Name]
+# 👋 Hi, I'm [AnmolSinghPatel]
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?size=25&duration=3000&color=00FFAA&center=true&vCenter=true&width=600&lines=AI+%26+ML+Engineer+in+the+Making;Building+Real-World+Intelligent+Systems;Future+AI+Researcher" />
